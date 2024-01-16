@@ -5,4 +5,4 @@ I've had this problem happen a few times, usually when opening my project on a d
 I found a post on youtrack.jetbrains by a Mikhail Zakharov who posted a great workaround that has saved me a lot of time! It's not the easiest to find so here it is.
 
 Download the cs file in this repo and place in the following file path
-![alt text]((https://github.com/jayvicks86/Unreal-Engine-Rider-Code-6/blob/main/FIle_Path.png)https://github.com/jayvicks86/Unreal-Engine-Rider-Code-6/blob/main/FIle_Path.png)
+![alt text](https://github.com/jayvicks86/Unreal-Engine-Rider-Code-6/blob/main/FIle_Path.png)
