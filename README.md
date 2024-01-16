@@ -6,3 +6,5 @@ I found a post on youtrack.jetbrains by a Mikhail Zakharov who posted a great wo
 
 Download the DirectX.Build.cs file in this repo and place in the following file path
 ![alt text](https://github.com/jayvicks86/Unreal-Engine-Rider-Code-6/blob/main/FIle_Path.png)
+
+You may need to regenerate project files but all should be good after.
